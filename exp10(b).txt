@@ -1,0 +1,4 @@
+hello 1st line
+2nd line
+"C:\Program Files\Python313\python.exe" "c:/Users/student/Desktop/Manveer Singh/Experiment/exp10(b).py"
+third line
